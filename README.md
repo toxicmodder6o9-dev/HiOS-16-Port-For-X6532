@@ -1,6 +1,6 @@
 # 📱 HiOS 16.2 Ported From Tecno Spark 50 5G
 
-# ◼️For X6532 Only◼️
+# 🔷 For X6532 Only
 
 An ultra-light, highly optimized port tailored for performance and stability, explicitly tweaked to breathe new life into 3GB RAM devices. 
 
