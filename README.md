@@ -9,7 +9,7 @@ An ultra-light, highly optimized port tailored for performance and stability, ex
 ## 🚀 Changelog
 
 * **Debloated & Cleaned:** Completely removed unnecessary bloatware and all AI features for a significantly cleaner, lighter system.
-* **Essential Features Added:** Integrated Floating-Windows, Split-Screen, and Double-Tap to Wake (D2W) & More!
+* **Essential Features Added:** Integrated Floating-Windows, Split-Screen, and Double-Tap to Wake (D2W), Infinity Plus Volume & More!
 * **Memory Management:** Added custom LMK (Low Memory Killer) and highly optimized 3GB zRAM tweaks for superior multitasking.
 * **Kernel Upgraded:** Shipped with Grey-Raven Zenithed v7 Kernel, compiled with Clang 19 (Non-Root).
 * **UI & Aesthetics:** Enabled minimal UI blur for a sleek look.
