@@ -34,7 +34,8 @@ An ultra-light, highly optimized port tailored for performance and stability, ex
 1. **Let it Settle:** After the first boot, please give the ROM a good **5 to 10 minutes** to fully optimize itself before heavy use.
 2. **RAM Expectations:** Minor lags during high-intensity usage are normal. HiOS 16 is a naturally RAM-hungry interface, though this build is heavily optimized to mitigate that.
 3. **Wallpapers:** Due to the removal of the core AI features, only *System Depth*, *Vogue*, and *AI Wallpapers* are functional.
-4. **Kernels:** Please **do not** report bugs if you decide to flash a different custom GKI kernel over this setup. 
+4. **Kernels:** Please **do not** report bugs if you decide to flash a different custom GKI kernel over this setup.
+5. **Camera:** Not Included By Default
 
 ---
 
